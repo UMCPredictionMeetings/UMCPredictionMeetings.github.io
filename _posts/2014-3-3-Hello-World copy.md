@@ -1,6 +1,12 @@
 ---
 layout: post
 title: Table with meetings
+published: true
+---
+
+---
+layout: page
+title: Prediction meetings schedule!
 ---
 
 A table with meetings 
