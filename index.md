@@ -1,4 +1,9 @@
-## A table with meetings 
+---
+layout: page
+title: Welcome to UMC Utrecht Prediction Meetings!
+---
+
+## A table  
 
 | Tables              | Are                 | Cool    |
 | ----------------  |-------------     | -----    |
