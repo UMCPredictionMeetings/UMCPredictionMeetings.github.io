@@ -9,6 +9,7 @@ published: true
   {% for post in site.posts %}
     <article class="post">
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+      <p class="post-meta"> Date: {{ post.date | date: site.date_format }}</p>
       <div class="entry">
         {{ post.content | strip_html | truncatewords: 20 }}
       </div>
