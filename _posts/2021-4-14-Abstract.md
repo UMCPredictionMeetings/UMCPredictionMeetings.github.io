@@ -1,9 +1,8 @@
 ---
 layout: post
+title: The title of the talk
 published: true
 ---
-
-#### The title of the talk
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget magna sed leo porta lobortis id ac felis. Cras pellentesque mollis lectus, sed molestie nisi commodo ac. Phasellus vel ante non massa blandit euismod. Maecenas at turpis ac augue posuere aliquam ut sit amet lorem. Fusce ornare purus sit amet nulla tincidunt, non viverra metus viverra. Duis feugiat suscipit euismod. Pellentesque leo erat, consectetur in commodo id, fringilla nec nisi. Aenean id leo lacus. Proin non finibus felis. Mauris vel semper quam, a eleifend erat. Ut vitae pharetra mi. Ut non hendrerit urna. Nulla facilisi.
 
