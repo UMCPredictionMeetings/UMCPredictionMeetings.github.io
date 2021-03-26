@@ -4,8 +4,6 @@ title: Another title of another talk
 published: true
 ---
 
-#### Another title of another talk
-
 Phasellus nulla sem, facilisis quis dui nec, facilisis vestibulum tortor. Aenean quis lobortis libero. Suspendisse sit amet venenatis justo, quis ultrices tortor. Maecenas vitae faucibus purus. In feugiat elit non metus eleifend, nec aliquam ligula maximus. Nam ornare turpis vitae pulvinar rhoncus. Sed id consectetur est. Fusce rhoncus varius nisl sed commodo. Nulla nec maximus sem, vel molestie lectus.
 
 Suspendisse a aliquam odio. Suspendisse volutpat, lacus eu eleifend viverra, neque risus vulputate sapien, ullamcorper vehicula risus urna quis sapien. Cras porta nulla odio. Maecenas vulputate ex a orci luctus ultricies. Pellentesque mattis eros eget mi ullamcorper, vel euismod velit vestibulum. Etiam sodales interdum ipsum, eu pulvinar nisl dictum sit amet. Mauris orci magna, ornare et viverra sit amet, consequat ut lectus. In hac habitasse platea dictumst.
