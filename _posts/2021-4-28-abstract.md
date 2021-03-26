@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Another title of another talk
 published: true
 ---
 
