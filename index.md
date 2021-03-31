@@ -9,7 +9,7 @@ published: true
 
 The meetings are from 16:00 to 17:00 (Netherlands Time). 
 
-| Date       | Name          | (Tentative) Title         | Affiliation/Department |
+| **Date**       | **Name**          | **(Tentative) Title**         | **Affiliation/Department** |
 |:-----------|:--------------|:--------------------------|:-----------------------|
 | 14-04-2021 | Zhujie Gu    | Integrative analysis of multiple omics datasets using O2PLS based methods    | Data science and Biostatistics, Julius Center, UMC Utrecht, NL    |
 | 28-04-2021 | Bada Yang  | QUADAS-C, a risk of bias tool for comparative diagnostic accuracy studies | Clinical Epidemiology, Biostatistics and Bioinformatics, Amsterdam UMC, NL    |
