@@ -5,12 +5,13 @@ permalink: /about/
 published: true
 ---
 
-Some information !
+## About the prediction meetings
 
-### More Information
+The UMC Utrecht Prediction meetings are a series of meetings that gives scientists working in prediction methodology a stage to present their work to specialists in the field. The meetings are hosted by the Julius Center for Health Sciences and Primary Care, University Medical Center Utrecht. 
 
-A place to include any other types of information that you'd like to include.
 
-### Contact me
+## Current organizers
 
-[email@domain.com](mailto:email@domain.com)
+Dr. Maarten van Smeden and dr. Said el Bouhaddani
+
+Contact us at: s.elbouhaddani at umcutrecht.nl or m.vansmeden at umcutrecht.nl (replace the " at " by "@")
