@@ -29,7 +29,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 1440px;
   padding: 0 10px;
   width: 100%;
 }
@@ -169,8 +169,8 @@ img {
 
 .site-avatar {
   float: left;
-  width: 70px;
-  height: 70px;
+  width: 100px;
+  height: 100px;
   margin-right: 15px;
 
   @include mobile {
