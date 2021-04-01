@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Welcome to UMC Utrecht Prediction Meetings
-published: true
+published: false
 ---
 
 
