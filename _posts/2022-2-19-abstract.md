@@ -1,0 +1,28 @@
+---
+layout: post
+title: PROGRESS in sample size calculations for clinical prediction model research
+published: true
+---
+
+
+**Professor Richard Riley**
+
+Centre for Prognosis Research,    
+School of Medicine,    
+Keele University    
+e-mail: r.riley@keele.ac.uk    
+twitter: @Richard_D_Riley    
+
+There is a growing demand to personalise treatment and healthcare for individuals based on their prognosis and/or predicted response to treatment. For this reason, prognosis and prediction research has never been more important. Sadly, empirical evidence shows that prognosis and prediction studies are often poorly designed, badly analysed, and selectively reported. The Prognosis Research Strategy (PROGRESS) framework was established to help address such shortcomings. In this talk, I will describe the PROGRESS framework, and highlight latest methodology guidance for calculating the sample size required for developing and validating clinical prediction models. 
+In terms of sample size for model development, a well-known “rule of thumb” is to have at least 10 events per predictor variable, but I will describe a more scientific approach based on minimising expected overfitting and ensuring precise parameter estimation.  In terms of sample size for model validation, a “rule of thumb” is to ensure at least 100 events and 100 non-events. Again, a more scientific approach is possible, which uses the distribution of the model’s linear predictor, and targets precise estimation of key model performance measures (calibration, discrimination and clinical utility).  Real examples are used to illustrate the concepts. The talk is intended for a wide audience. 
+
+_Selected references_
+1. van Smeden M, Moons KG, de Groot JA, et al. Sample size for binary logistic prediction models: Beyond events per variable criteria. Stat Methods Med Res 2019;28(8):2455-74.    
+3. van Smeden M, de Groot JA, Moons KG, et al. No rationale for 1 variable per 10 events criterion for binary logistic regression analysis. BMC Med Res Methodol 2016;16(1):163   
+4. Riley RD, Snell KI, Ensor J, et al. Minimum sample size for developing a multivariable prediction model: Part II - binary and time-to-event outcomes. Stat Med 2019;38(7):1276-96.   
+5. Riley RD, Snell KIE, Ensor J, et al. Minimum sample size for developing a multivariable prediction model: Part I - Continuous outcomes. Stat Med 2019;38(7):1262-75.    
+6. Riley RD, Ensor J, Snell KIE, et al. Calculating the sample size required for developing a clinical prediction model. BMJ 2020;368:m441.    
+7. Snell KIE, Archer L, Ensor J, et al. External validation of clinical prediction models: simulation-based sample size calculations were more reliable than rules-of-thumb. J Clin Epidemiol 2021;135:79-89.    
+8. Archer L, Snell KIE, Ensor J, et al. Minimum sample size for external validation of a clinical prediction model with a continuous outcome. Stat Med 2021;40(1):133-46.    
+9. Riley RD, Debray TP, Collins GS, et al. Minimum sample size for external validation of a clinical prediction model with a binary outcome. 2021; 40: 4230-4251   
+10. Riley RD, Collins GS, Ensor J, et al. Minimum sample size calculations for external validation of a clinical prediction model with a time-to-event outcome. Stat Med 2022 (in-press)    
